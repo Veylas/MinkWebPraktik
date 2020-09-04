@@ -1,1 +1,1 @@
-MinkWebPraktik
+PraktikMinkWebs
